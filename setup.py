@@ -18,7 +18,6 @@ setup(
         'gym[atari,box2d,classic_control]~=0.15.3',
         'ipython',
         'joblib',
-        'matplotlib',
         'mpi4py',
         'numpy',
         'pandas',
